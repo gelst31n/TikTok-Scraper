@@ -5,7 +5,7 @@ import pandas as pd
 import statistics as stats
 
 #API Key
-api = TikAPI('ilQNohDEB0RJjqQrIgXXmCKzi20KAiI63ZYfoOAw0NbM4KY9')
+api = TikAPI('INSERT KEY HERE')
 
 #Sound ID from URL
 sound_id = "7268424827940260651"
